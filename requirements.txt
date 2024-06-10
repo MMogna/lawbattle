@@ -1,0 +1,5 @@
+django
+django-admin
+django-cors-headers
+djangorestframework
+expiring_lru_cache
